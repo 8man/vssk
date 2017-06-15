@@ -1,0 +1,2828 @@
+{
+  "settings": {
+    "currentPage": "bookappointment.html",
+    "name": "vssKENDRA PROJECT",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#f97352",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Slabo 27px",
+        "subtitleFont": "Source Sans Pro",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 178,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Vsskendra",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-family": "'Ubuntu', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.2rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.300rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#171c2c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#232c44!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#28324e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#28324e",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Ubuntu",
+              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "css": "'Ubuntu', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vssk-logo-227x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Vashishtha Sadhna Siddhi Kendra</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"AboutUs.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AboutUs.html#content1-26\">Description<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AboutUs.html#header3-2b\">Jurisdiction</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-1f\">What is astrology ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-1x\">Grouping of Signs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-1z\">What is Kaal Sarp Yoga ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-2c\">Vastu </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"ContactUS.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Mantras</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-3p\">1.All round Pleasure giving Mantra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-3u\">2.Mantra for acquiring education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-3x\">3.Mantra for acquiring wealth </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-40\">4.Mantra for attainment of education and success in examination </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-43\">5.Mantra for attainment of Pleasure </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-46\">6.Mantra for getting a good husband</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-49\">7.Mantra for getting a good wife </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4c\">8.Mantra for getting all round success</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4f\">9.Mantra for attaining peace</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4i\">10.Mantra for having a peaceful life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4l\">11.Mantra for increasing profits in business</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bookappointment.html\" aria-expanded=\"false\">Private Appointments</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUS.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#f28281"
+            }
+          },
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright © 2017 VSSKendra All rights reserved."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "B": {
+              "text-align": "center"
+            },
+            "H2": {
+              "text-align": "left",
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "6",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/ganeshji-2000x1500.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Welcome to&nbsp;<div>Vashishtha Sadhana Siddhi Kendra</div>",
+                "showText": true,
+                "text": "&nbsp; &nbsp; &nbsp; Here <i>remedies</i> are prescribed according to the problems of a person,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; so that a person could get rid of his problems.<br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"bookappointment.html\" data-toolbar=\"-mbrBtnMove\">WANT TO BOOK AN APPOINTMENT ?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"AboutUs.html\" data-toolbar=\"-mbrBtnMove\">KNOW ABOUT US!</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Find Your Solutions",
+                "showText": true,
+                "text": "Kundali Ko Bhavishya Ka Aaiyana Bhi Kahte Hai Apni Janam Patrika Banwakar Jaaniye Apna Bhagyshaali Number - Colour- Vahan Sukh - Bhawan Sukh Vivah Yog - Dampatya Sukh - Maanglik Dosh - Grahan Dosh - Vish Dosh - Kaal Sarp Dosh - Pitra Dosh Laabh -Haani Ghatna - Dirghatna Sukh Dukh Isiliya Apni Sampooran Janam -Patrika Banwakar Jaane Apne Baare Me",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"bookappointment.html\" data-toolbar=\"-mbrBtnMove\">WANT TO BOOK AN APPOINTMENT ?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"ContactUS.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US!</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "SUNIL SHARMA",
+                "showText": true,
+                "text": "&nbsp;has been guiding<b> </b>and administering an Astrological department in his organization Vashishta Sadhana Siddhi Kendra Charitable Trust (Regd.)&nbsp;for many years, where horoscopes of many people are stored and studied",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-2k",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/87916-2000x625.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Bhagya Badla Nahi Ja Sakta,<div>Lekin Sudhara aur Sawara Ja Sakta Hai&nbsp;</div>",
+          "text": "<p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Mr. Sunil Sharma ( Astrologer )</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features2-2p",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "desktop",
+              "family": "et-line",
+              "active": true,
+              "link": "AboutUs.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title1": "ABOUT &nbsp;US",
+          "subtitle1": "",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"AboutUs.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "mobile",
+              "family": "et-line",
+              "active": true,
+              "link": "bookappointment.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title2": "MAKE &nbsp;AN &nbsp;APPOINTMENT",
+          "subtitle2": "",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"bookappointment.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "pencil",
+              "family": "et-line",
+              "active": true,
+              "link": "FAQ.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title3": "FAQ",
+          "subtitle3": "",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"FAQ.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "global",
+              "family": "et-line",
+              "active": true,
+              "link": "ContactUS.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title4": "CONTACT &nbsp;US!",
+          "subtitle4": "",
+          "caption4": ".",
+          "button4": "<a data-app-btn=\"true\" href=\"ContactUS.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2x",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ganeshji-1400x1050.jpg",
+              "link": "mantras.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "MANTRAS<br>",
+          "text": "They not only help us to cleanse our minds but our souls as well.<br>Read the mantras that are important for you..",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"mantras.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials3",
+          "testimonial": [
+            {
+              "text": "<p>“I had good experience after having consultation with astrologer Sunil Sharma. Sunil sir is great astrologer in Delhi Ncr and India. He is very calm accurate and down to earth person. very Very nice experience with Sunil sir.<span style=\"font-size: 1.125rem; line-height: 2;\">I Definately recommend him.”</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Abhinav &nbsp;S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“I had got many good advice and predictions from Sunil Sharma and he is a very good astrologer in Delhi NCR.The serrvices are good and the support team reacts well and fast to solve your issues.The information he gives is very deep and correct.The design is easy to use and any new visitor can easily use it.The website load time is very good too.<span style=\"font-size: 1.125rem; line-height: 2;\">”</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Amrita &nbsp;M.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“A wonderful experience after many bad experiences with others . His every words are motivating. He shows me the path to light, positive and hope. I felt very relaxed and relieved of my negativity after I left his office and I had a blind believe he can do best for me with his knowledge and power . He is a very genuine and a wonderful person I have ever met.VSSKendra is best in Delhi and might be one of the best in whole India.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Shanaya &nbsp;K.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials3-3a",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "count": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/87916-2000x625.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false
+          },
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "buttons1-3c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#28324e"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"bookappointment.html\" data-toolbar=\"-mbrBtnMove\">WANT TO BOOK AN APPOINTMENT ?</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"AboutUs.html\" data-toolbar=\"-mbrBtnMove\">KNOW ABOUT US!</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-3b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#475577",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "SUBSCRIBE FORM",
+          "subtitle": "Subscribe to our Newsletter",
+          "form": {
+            "action": "sharmahemant296@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-4x",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "file:///C:/Users/HP-PC/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-9-2000x1333_2.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "B": {
+              "color": "#efefef",
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#efefef"
+            },
+            "P": {
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "contacts1-37",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vssk-logo-128x72.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>A-519 ,shastri nagar ,<br>delhi-110052 ,<br>INDIA<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": ""
+        }
+      ]
+    },
+    "AboutUs.html": {
+      "settings": {
+        "title": "About Us",
+        "meta_descr": "Website Maker Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.2rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.300rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#171c2c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#232c44!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#28324e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-r",
+          "_params": {
+            "bgColor": "#28324e",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vssk-logo-227x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Vashishtha Sadhna Siddhi Kendra</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"AboutUs.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AboutUs.html#content1-26\">Description<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AboutUs.html#header3-2b\">Jurisdiction</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-1f\">What is astrology ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-1x\">Grouping of Signs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-1z\">What is Kaal Sarp Yoga ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-2c\">Vastu </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"ContactUS.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Mantras</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-3p\">1.All round Pleasure giving Mantra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-3u\">2.Mantra for acquiring education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-3x\">3.Mantra for acquiring wealth </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-40\">4.Mantra for attainment of education and success in examination </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-43\">5.Mantra for attainment of Pleasure </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-46\">6.Mantra for getting a good husband</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-49\">7.Mantra for getting a good wife </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4c\">8.Mantra for getting all round success</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4f\">9.Mantra for attaining peace</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4i\">10.Mantra for having a peaceful life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4l\">11.Mantra for increasing profits in business</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bookappointment.html\" aria-expanded=\"false\">Private Appointments</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUS.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#f28281"
+            }
+          },
+          "_anchor": "footer1-s",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 VSSKendra."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-x",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/87916-2000x625.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "About us!",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-26",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "text": "<b><i>SUNIL Sharma</i></b> has been guiding and administering an Astrological department in his organization <b>Vashishta Sadhana Siddhi Kendra Charitable Trust (Regd.)</b>&nbsp;for many years, where horoscopes of many people are stored and studied. Here remedies are prescribed according to the problems of a person, so that a person could get rid of his problems. Prescribed remedies are least expensive and effective within the shortest possible time period. Any person can send his/her horoscope to the centre and get information regarding solution to his problems, defects in horoscope, remedies to his problems etc. This is a unique organization in India, where there is no discrimination between rich and poor. Any person can visit the centre by appointment and know about his future predictions. For long distance consultation, anyone can approach the centre through post/ e-mail. Due to in-depth knowledge and experience of Sunil Sharma and due to his logical and practices approach, centre receives hundreds of letters daily. This gives fair idea about workload at the centre These days Astrology and Sunil Sharma are considered complementary to each other. Whenever Astrology is mentioned, Sharma's family is always remembered. They have contributed immensely for generations to popularize this science and they will continue to do so.<div><br></div><div>Upon getting divine blessings and inspiration from the most pious shrine Human Care And Social Welfare Society and vital encouragement from the knowledge of Indian astrology, the Organisation Vashishtha Sadhana Siddhi Kendra and its web site VSSKENDRA.COM came into being-the vision being to serve one and all to find solution of difficulties and problems related to their lives.</div><div><br></div><div><b>Vashishtha Sadhana Siddhi Kendra</b> is a spiritual and religious organisation under which we imbibe and employ and enhance activities for the welfare of people for the last one-decade. In Vashishtha Sadhana Siddhi Kendra, there is a free consulting, rendered by Shri Sunil Sharma, prominently known as Guruji towards problems and questions related to life and destiny.Not only consulting is given to innumerable persons, the divine cure for ailments, ill destiny, adverse running of business, family troubles etc, is also freely and generously bestowed to the congregation through Our Guruji .</div><div><br></div><div>We are pleased to state that the Centre has now come to complete 10 long years of its Establishment and that its work and history of these Golden 10 years are a proof enough of its achievements and attachments in the field of Indian Astrology, Spiritualism, religion, Vastu &amp; Numerology. We are proud to claim that this Centre has taken the Indian Astrology's Message throughout India This Centre happens to be the first Institute of its kind in the India . It is creditable that the cause of Spiritualism initiated by \"Goverdhan Das Vashishtha \" has since been furthered admirably and put on the right lines by the first young Astrologer \"Shri Sunil Sharmai\" a shining young star on the firmament of Astrological Science, who has since been encouraging and inspiring lacs of devotees and followers all over the India. Talking in terms of Objectives and Activities, we might say that the Centre is devoted in its work purely with a Mission of service and not for any material motives. The Mission includes regular distribution of knowledge and awareness through Other activities of the Centre includes holding of Camps for the devotees regarding their various problem related to Astrology Vastu &amp; Numerology</div><div>&nbsp; </div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "&nbsp; JURISDICTION",
+          "meta": "The jurisdiction of the trust shall be throughout India, Asia &amp; Abroad."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2a",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><br></p><p><br></p><p><br></p><p><b>&nbsp;1.       AIMS AND OBJECTS</b></p><p><br></p><p>&nbsp;<b>1.1 </b>    To establish, develop, maintain and grant aid in cash or in kind to hospitals, medical schools, medical colleges, nursing institutions, dispensaries, maternity homes, child welfare centres and/or such other similar charitable institutions in India for the benefit and use of the general public.</p><p><br></p><p><b>&nbsp;1.2 </b>    To establish, run, support and grant aid or other financial assistance to schools, colleges, libraries, reading rooms, universities, laboratories, research and other institutions of the like nature in India, for use of the students and the staff and also for the development and advancement of education and diffusion of knowledge amongst the public in general.</p><p>.</p><p><b>&nbsp;1.3</b>     To establish, maintain and run studentships, scholarships and render other kind of aid to students including supply of books, stipends, medals and other incentives to study, without any distinction as to caste, colour, race, creed or sex.</p><p><br></p><p><b>&nbsp;1.4.</b>    To promote, establish, support, maintain or grant aid to institutions for the promotion of science, literature, music, drama and fine arts, for the preservation of historical monuments and for the research and other institutions, in India, having similar objects for the benefit of the public in general.</p><p><br></p><p>&nbsp;<b>1.5</b>     To establish, maintain or grant aid for the establishment and/or maintenance of parks, gardens, gymnasiums, sports clubs, dharamshalas and rest houses, for use by public in general.</p><p>&nbsp;</p><p><b>1.6 </b>    To establish, maintain or grant aid to homes for the aged, orphanages or other establishments for the relief and help to the poor, needy and destitute people, orphans, widows and aged persons.</p><p><br></p><p><b>&nbsp;1.7 </b>    To establish and develop institutions for the physically handicapped and disabled or mentally retarded persons and to provide them education, food, clothing or other help.</p><p><br></p><p>&nbsp;<b>1.8</b>     To grant relief and assistance to the needy victims during natural calamities such as famine, earth quake, flood, fire, pestilence, etc. and to give donations and other assistance to institutions, establishments or persons engaged in such relief work.</p><p><br></p><p><b>&nbsp;1.9 </b>    To construct repair and manage the marghats, cemeteries and burial grounds.</p><p>&nbsp;</p><p><b>1.10 </b>  To grant aid or render assistance to other</p><p>&nbsp;</p><p><b>1.11</b>   To promote Indian and Vedic culture through various forms of Arts, Architecture, Literature, Dance, Drama, Music, Bhajans etc.</p><p>&nbsp;</p><p><b>1.12</b>   To research into and scientifically explore, investigate and expound the science of Ayurveda;</p><p><br></p><p><b>&nbsp;1.13 </b>  To assist nations in developing universal friendly relations through science;</p><p><br></p><p><b>&nbsp;1.14</b>   To promote national integrity, enliven national consciousness, ability, adaptability and the ability to act in accordance with the laws nature, hereby restoring cultural integrity and bringing invincibility to nation.</p><p>&nbsp;</p><p><b>1.15</b>   To promote spontaneous integration of knowledge in daily life, awareness to the ground state of Natural law for all actions in life. Higher education for every one to fulfill the natural ability of mankind and to assist in the discovery of the fundamentals of education;</p><p><br></p><p>&nbsp;<b>1.16</b>   To establish and support professorship, fellowships, Lecturer ships, Scholarship, Loan Scholarships and Prizes in any school, college, University, Vidayalaya, Vishwa Vidayalay and any other Educational Institutions.</p><p>&nbsp;</p><p>&nbsp;</p><p><b>1.17</b>   To purchase and/ or cultivate medicinal plants, herbs etc. and prepare Ayurvedic medicines for the benefits of mankind.</p><p><br></p><p><b>&nbsp;1.18</b>   To undertake promotion and learning of Ayurvedic medicines.</p><p><br></p><p><b>&nbsp;1.19</b>   To accept any donations, gifts or other transfers to the trust of any immovable or movable properties or other  assets which would assist in the implementation of or the furtherance of any of the objects and purposes of the trust or carrying out any such objects or purposes;</p><p><br></p><p><b>&nbsp;1.20</b>   To undertake, sponsor, establish, execute any trusts, society, institutions, foundations, endowments and/ or funds that may be inductive of any or all of the objects of the trust.</p><p><br></p><p><b>&nbsp;1.21</b>   To subscribe, contribute and/ or donation to any public fund or institutions established for promotion of chargeable purpose with such conditions as the trustees shall think fit;</p><p>&nbsp;</p><p><b>1.22</b>   To sponsor, undertake, establish and execute any trust, endowment fund for the purpose of providing relief on occasions of  national calamities like earthquakes, fire, tornadoes, famines epidemics and floods or for any other purposes which may seem desired and which in law is charitable within the meaning of the provision of the income tax act, 1961.</p><p>&nbsp;</p><p><b>1.23 </b>  To apply the funds of the trust for the advancement of any other object of general public utility;</p><p><br></p><p>&nbsp;<b>1.24</b>   To undertake and promote any activity that will enable the trust's program to be self sufficient including the activity of Agriculture, Horticulture, Dairy farming, Bee farming or conducting Household, Cottage and small scale industries, khadi udyog, Architectural and constructional activities etc. with the sole motive of bringing fulfillment to be object of the trust and without any profit motive.</p><p>&nbsp;</p><p><b>1.25 </b>  To promote balanced rural development by implementing such themes or programmes either individually or with the help of other institutions, organizations, Govt. and Semi Govt. Departments which pay benefit rural inhabitants of India.</p><p>&nbsp;</p><p><b>1.26</b>   To promote charitable, cultural, spiritual, educations and any other activity for the relief of poor and the education of the needy and to afford medical relief of poor and/ or promote any other object of public utility without distinction of caste, creed, religion and race.</p><p>&nbsp;</p><p><b>1.27</b>   To promote such activities as may result in mental and/ or physical well being of the members of the society in general.</p><p>&nbsp;</p><p><b>1.28 </b>  To do or perform any other act which may be incidental or ancillary attainment of any of the objects of the trust.</p><p><br></p><p><b><br></b></p><p><b>&nbsp;2.   MANAGEMENT</b></p><p><br></p><p><b>&nbsp;2.1</b>     The trustees shall collectively be called the \"Board of Trustee\".</p><p>&nbsp;</p><p><b>2.2</b>      Board of Trustees :-</p><p><br></p><p>&nbsp;<b>i)</b>       SH. SUNIL SHARMA</p><p><br></p><p>&nbsp;<b>ii) </b>      SMT. SUMAN SHARMA</p><p><br></p><p>&nbsp;<b>iii)</b>      MAYANK SHARMA</p><p><br></p><p>&nbsp;<b>iv)</b>      HITESH MOUDGIL</p><p>&nbsp;</p><p><b>V) </b>     SMT. POOJA SHARMA</p><p><br></p><p><b>&nbsp;vi)</b>      SMT. KRISHANA DEVI</p><p><br></p><p>&nbsp;<b>2.3</b>     The Managing Trustees of the trust shall be elected from the \"Board of   Trustees\"  for the period of Three years.</p><p><br></p><p><b>&nbsp;2.4</b>     The number of the Trustees shall not be less than three and more than fifteen. If the number of the trustees falls below three, the Trustees shall not act, except for the purposes of filling up the vacancy, so long be number is below the said minimum.</p><p>&nbsp;</p><p><b>2.5</b>     The management of the affairs of the Trust and is income and properties shall be done by the Trustees, and the decision of the majority, less otherwise mentioned in these presents, shall be binding on all trustee.</p><p>&nbsp;</p><p><b>2.6 </b>    The affairs of the trust shall be managed by the trustees who shall determine the purposes being charitable purposes within the objects of the trust as hereinbefore declared for which and the manner in which the first property shall be applied, and those decisions as to any such application of the trust within the terms of the said trust shall be final and inclusive and not open to question by any person or body or trustees.</p><p>&nbsp;</p><p><b>2.7 </b>    The trust may apply to the Government, public bodies, urban, local, Municipal, District and other bodies, corporation, companies, or person to accept grant of money and of aid, donations, gifts, scrimptions, immovable property and other assistance with a view to note the objects of the trust and to discuss and negotiable with the Government, public and other work and matter within the objects of the trust and to confirm to any condition subjects which such grants and payments may be made.</p><p>&nbsp;</p><p><b>2.8</b>     The trust may take over, acquire, manage, control or aid any existing institution or institutions having objects either who or in part similar to objects of this trust and on such terms and conditions as may be sought expedient.</p><p>&nbsp;</p><p>&nbsp;</p><p><b>2.9</b>     The \" Board of trustees\" may transfer/ FOUNDER TRUSTEE/SETTLER or any part of the property, movable or immovable, assets, liabilities and engagements the trust on such conditions and upon such terms as the trustees in their discretion may deem fit and proper for the purpose of the trust.</p><p>&nbsp;</p><p><b>2.10</b>   The Trust may borrow or raise money by way of loans or deposits in private or public appeals or banks or Financial institutions or Govts. In any manner permitted by law and to issue promissory notes, debentures, bonds or any other obligations or securities upon such terms and conditions as the Trustees shall in their discretion deem fit and proper  from time to time. The trust may mortgage the whole or any part of the trust property as security for the repayment of the loans borrowed for the purposes of the trust.</p><p>&nbsp;</p><p><b>2.11</b>   The \"Board of Trustees\" may secure, hold, improve, sell, lease, convey and dispose of any property and to exercise the rights, powers and privileges of ownership.</p><p>&nbsp;</p><p><b>2.12</b>   The trust may apportion the trust property and to make compromise or compound all actions, suits or other proceedings and all differences and demands and refer any such differences or demands to arbitration and to adjust, settle and approve, all account relating to the trust property and to execute and release all documents necessary in the premises and to do all other things relating thereto respectively as fully as if they were absolutely entitled to the trust property and without being answerable for  the loss occasioned thereby.</p><p>&nbsp;</p><p><b>2.13</b>   The trust may instead of themselves spending any sum for any authorized by these presents or by law or by statute  the trustees  any sum for such purpose to any charitable educational or Trust or Institution without being bound to see to the application thereof. Provided that every contribution by the Trustees to any other trust, or institution, having as its object all or any of the objects specified in clause 4 herein above shall be treated and deems to be in furtherance achievement  of the objects of the trust.</p><p>&nbsp;</p><p><b>2.14</b>   The working of the trust shall be management by the managing Trustees will be constituted of the following office bearers amongst the trustees.</p><p>&nbsp;</p><p><b>1</b><i>.   President</i></p><p><br></p><p><b>2</b>.   <i>Vice-President</i></p><p><br></p><p><b>3.</b>   <i>Secretary</i></p><p><br></p><p><b>4. </b><i>  Treasurer (one)</i></p><p><br></p><p>&nbsp; &nbsp; &nbsp;The office bearers will be elected after every three years in the meeting Board of trustees. The first Managing Board of Trustees are elected amongst the trustees</p><p><br></p><p><b>i)</b>       Sh. Sunil Sharma                     President</p><p><b>ii) </b>      Smt. Suman Sharma                Secretary</p><p><b>iii)</b>      Shri Hitesh Moudgil                 Vice President</p><p><b>iv) </b>     Shri Mayank Sharma                Treasurer</p><p><b>v)</b>       Smt. Pooja Sharma                  Executive Member</p><p><b>vi) </b>     Smt, Krishana Devi                   Executive Member</p><p>They shall continue to hold their respective office for a period of three years or until the election of the new office bearer to those respective offices provided they continue to be the trustee.</p><p><br></p><p><b>2.15 </b>  The Quorum of meeting will be 2/3rd of the trustees. The meeting will be chaired over by the President and in his absence by the Vice-President, Secretary. If both of them are absent then by a trustee elected as chairman of meeting on majority votes in the meeting. The meetings can be called by giving a minimum of 15 days notice if all trustees agree, period of notice can be reduced. If the quorum present in a meeting is less then required, the meeting will be called agree and in such meeting quorum will not be required. But in the notice it trust be mentioned that it is an adjourned meeting.</p><p><br></p><p><b>2.16 </b>  The minutes books of meeting of board of trustees and managing trustees shall be kept by Vice-President, Secretary in which all minutes of meeting will be recorded.</p><p><br></p><p><b>2.17 </b>  A meeting of the trustees for the trustees meeting at which proper quorum is present shall, except as otherwise expressly provided by these presents, be competent to execute and exercise, by a majority of the trustees present at the meeting, all trusts, powers, authorities and direction, vested in the trustees under these presents.</p><p><br></p><p><b>2.18</b>   The Membership of trustees shall be ceased in the event of His/Her death, or acceptance of resignation by the Board of Trustees. The membership can be ceased after circulating proper agenda with a cent-percent vote of the Board  of trustees. In the event of death of any trustee, the new trustee shall be nominated by his/ her family members only. In the event of acceptance of registration of trustee, the vacancy shall be filled in by the Board of trustees after circulating proper agenda with a cent-percent vote of the trustees only.</p><p><br></p><p><b>2.19 </b>  The Board of Trustees can have various committees. These committees can be entrusted responsibility for running one or more institutions, However the committees will be responsible to the trust and take guidance in policy matters from the Managing trustees. In the administration and management of the trust and the trust affairs, the trustees shall be entitled to appoint such committees of persons who may be other than trustees to guide and advise the trustees or the Managing trustees as the case may be or for any other purpose whatsoever.</p><p><br></p><p><b>2.20</b>   The Board of Trustees can appoint at the most fifteen persons as Patron/Hony/Designated trustees for the period of one year in the interest and welfare of the trust. The membership of the Patron/ Hony/ Designated trustees shall get automatically terminated at the end of one year and Patron/ Hony/ Designated trustees shall not be having any voting right in any manner whatsoever during their tenure.</p><p><br></p><p><b>2.21 </b>  There will be at least one meetings of \"Board of Trustee\" in a year. The agenda of the meeting would be financial status of trust construction and policy related discussion on important issues, maintenance of buildings and other movable property and on other related matters keeping in view the objectives of the trust, annual report, annual accounts and appointment of auditors etc. The trustees shall transact their business in meetings which shall be convened from time to time as and when necessary and as decided by majority of the trustees. In case of urgency any business can be transacted by a written circular to be issues by or at the instance of the Vice-President, Secretary and circulated among the trustees for recording the opinion in writing as to the matters under consideration. The opinion may also be obtained over the telephone or by way of tele-communication or on a voting by a circular as aforesaid. The vote of majority shall prevail at this meeting.</p><p><br></p><p><b>2.22</b>   The different committees will be constituted for smooth working of trust. Trust will also form its working body consisting of trustees. Trust board can invite dignitary or dignitaries, if it feels it necessary.</p><p><br></p><p><b>2.23</b>   The meeting of managing trustees can be called at any time i.e. as and when required but minimum one meeting in a year. It is necessary to give seven days notice for the meeting except under special circumstances, but 3 days prior information for specific general meeting would be necessary.</p><p><br></p><p><b>2.24 </b>  The Governing body will be formed for each institute. The President of the Governing body will necessarily be from among the founder trustees. One vice president, one Vice-President, Secretary, two assistant/ additional secretary, one treasurer and two members, will have to be on the Board.</p><p><br></p><p><b>2.25</b>   In case of any conflict with any institute, run by the trust, the final decision will be of the \"President\". The President can remove any other t2ustee in any circumstances, if he or she is not working for the benefit of trust.</p><p><br></p><p><b>2.26</b>   In case of any difference of opinion among the Trustees for the time being in any manner concerning the Trust including interpretation of these presents, the power of appointment of the Trustees or any other matter or question relating to or arising out of the Trust the opinion of the majority shall prevail and be binding and conclusive.</p><p>&nbsp;</p><p><b>3.       RULES AND REGULATIONS AND BYE-LAWS</b></p><p><br></p><p>The Trustees shall be entitled to make, amend or rescind rules and Regulations for the management of the trust and all matter concerning the trust and the trust property and their management including the conduct of the meetings of the trustees with the majority vote of the trustees.</p><p>&nbsp; &nbsp; &nbsp;Provided that such Rules and Regulations shall not be repugnant to the provisions hereof or offend the objects or purchases of the trust or be inconsistent therewith.</p><p>&nbsp;</p><p><b>4.       ACCOUNTS &amp; FUNDS</b></p><p><br></p><p><b>4.1 </b>    The trustees shall have power in their discretion to accept upon such terms as they may think fit any donations, contributions, from any private or public trust, institution, company, firm or persons whomsoever whether such donations or contributions be of money and or any other property movable or immovable.</p><p><b><i>PROVIDED ALWAYS THAT</i></b> the terms upon which such donations or contributions shall be accepted, shall not in any way be inconsistent with or repugnant to the objects of these presents and shall only be for the purposes of advancement of the objects of the trust created under these presents, to be utilized only in furtherance of such objects;</p><p><b><i>PROVIDED ALWAYS AND IT IS HEREBY AGREED AND DECLARED THAT</i></b> save as otherwise expressly provided by the terms of the donations or contribution as aforesaid; the trustees shall in their absolute discretion be entitled their donations or contributions or any part there of as part of trust of the trust property and to utilize such donations or contributions or any part thereof for the furtherance and fulfillment of the effects of the trust.</p><p>&nbsp;</p><p><b>4.2</b>     The funds and movable property of the trust shall be vested with the trustees of the trust, to be held, invested and dealt with by them as may from time to time be decided up by the trustees.</p><p><br></p><p><b>4.3</b>     All the property and income of the trust shall be application duly towards the promotion of the objects of the trust as set forth herein above and further, that no portion thereof shall be paid or transferred directly or indirectly by way if dividend or bonus or otherwise by way of profits to the persons who at any time are or have been trustees of the trust or to any one of them or any person claiming through any of them or any person claiming through any of them. However nothing contained  herein shall prevent the payment in good faith of remuneration to any employee or  employees of the trust or to any trustee thereof or other person from any service rendered to the trust.</p><p>&nbsp;</p><p><b>4.4</b>     To keep the movable and immovable properties forming part of the trust property in good repair and condition and fully insured and in their discretion to make any addition, alteration and improvement to the immovable property/s forming part of the trust property and to develop the same from time to time in such manner as they, in their discretion deem fit and proper.</p><p><br></p><p><b>&nbsp;4.5</b>     The financial year of the trust shall commence from 1st April and close on 31st March of every year.</p><p><br></p><p><b>&nbsp;4.6</b>     The account of the Trust will be opened in any Co-operative/commercial/Nationalized/multinational/foreign bank by the trust and it shall be operated trustee among the trustees  as resolved by the \"Managing Trustees\" in its meeting. All the bank accounts will be operated by the President.</p><p><br></p><p><b>&nbsp;4.7 </b>    The trustees shall maintain proper accounts. The accounts of the Trust shall be annually audited by Chartered accountants appointed by the \"Board of Trustees\".</p><p><br></p><p><b>&nbsp;4.8 </b>    The trust may receive fees by the institutions or school run by trust, whether Technical, Medical or Homeopathic institutes etc.</p><p>&nbsp;</p><p><b>4.9 </b>    The trustees shall not be benefited to receive any salary or other remuneration for their services shall be entitled to be recouped out of the trust property or income thereof for all out of pocket expenses actually incurred by them respectively in performing their duties as trustee including all reasonable traveling and hotel expenses including pending meetings of the trustees or incurred in connection with going on of the objects of the trust.</p><p><br></p><p><b>&nbsp;4.10</b>   The trustees shall  have power to accumulate for a period as may be permissible in law, the whole or any part/s of the income of the trust property   as the trustees man in their discretion think fit by investing the same and the resulting income there of in any of the investments authorized by law including the provisions of the Income Tax Act , 1961 or any replacement, re-enactment or modification thereof for the time being in force with power to vary such investments for the time being representing the same shall be held for the purpose of this trust and the powers and provisions as are under this deed applicable to the corpus of the trust property shall also apply to the same and treated as one fund.</p><p>&nbsp;</p><p><b>4.11 </b>  All moneys forming part of the trust property and requiring investment shall be invested in or upon any of the securities authorized by law investment of trust property;</p><p><br></p><p>&nbsp;<b>4.12</b>   The trustees shall have power to make donations or contributions to any trust, public fund or institution set up for purposes which have similar objects as this trust as approved by the Managing trustees.</p><p><br></p><p><b>&nbsp;4.13 </b>  The receipt in writing of the trustees on behalf of the trust or of Vice-President, Secretary/ Treasurer or authorized representative for any interest, dividend or income or any deed, paper, writing, documents or other moneys and effects payable or deliverable to the trust shall be sufficient and effectual discharge for the same respectively or for so much thereof respectively as in such receipts shall be expressed or acknowledged to be or have been received and the persons to whom or in whose favour the same shall be given his, her and their executors or administrators shall not afterwards be in any obliged concerned to see to the applications of the moneys, property and institutions therein mentioned and acknowledge to be received recoverable or accountable for the loss, misapplication or non-approved thereof.</p><p>&nbsp;</p><p><b>5.       RIGHTS AND DUTIES</b></p><p><br></p><p><b>&nbsp;5.1     PRESIDENT</b></p><p>&nbsp;He will chair over the meetings of the \"Board of Trustees\" and managing trustees. He will be all over incharge of the trust and to supervise the work of the trust and the special circumstances can direct to do or not to do any particular work for trust. The chairman has veto power to sell, purchase any land and other things.</p><p>&nbsp;</p><p><b>5.2     VICE PRESIDENT</b></p><p>&nbsp;Subject to overall superintendence of the \"Board of Trustees\" the Hony. Vice-President shall have the power to manage and manage and administer the trusts constituted under these present and shall be entitled to exercise such powers and authorities as are vested in him from time to time by the trustees.</p><p>&nbsp;</p><p><b>5.3     SECRETARY</b></p><p>&nbsp;Subject to overall superintendence of the \"Board of Trustees\" the Hony. Secretary shall have the power to manage and manage and administer the trusts constituted under these present and shall be entitled to exercise such powers and authorities as are vested in him from time to time by the trustees.</p><p><br></p><p><b>&nbsp;5.4     TREASURER</b></p><p>&nbsp;She shall be responsible for management the of funds/ property and proper maintenance of the accounts of the trust.  She will make payments as per expenditure sanctioned in writing by chairman or Vice-President, Secretary and will put income and expenditure statement in the meetings. She will get the audit of the accounts done every year by Auditors.</p><p>&nbsp;</p><p><b>6.       POWERS  OF TRUSTEES</b></p><p><br></p><p><b>&nbsp;6.1</b>     To empower the President, Vice-President, Secretary, Treasurer or any other trustee or any other person to perform all or any of the power of the trust and to sign contacts, documents etc. for and on behalf of the trust.</p><p><br></p><p><b>&nbsp;6.2 </b>    To enter, make, perform, and carry out contracts of every kind and for any lawful purpose with any person, associations, company or body whether public or private.</p><p><br></p><p>&nbsp;<b>6.3</b>     To pay or allow any debt or claim or any evidence which they think sufficient.</p><p><br></p><p><b>&nbsp;6.4 </b>    To accept any compensation, or any security movable or items any debt or any property due to or claimed  by the trust.</p><p>&nbsp;</p><p><b>6.5 </b>    To allow  any time for payment of any debt.</p><p>&nbsp;</p><p><b>7.   LEGAL CASES</b></p><p>&nbsp;All legal cases will be subject to jurisdiction of Delhi or at the court where the office of the trust will exist, in the name of, and by the secretary or any other person authorized by the trustees.</p><p>&nbsp;</p><p>&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "buttons1-4s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#28324e"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"bookappointment.html\" data-toolbar=\"-mbrBtnMove\">WANT TO BOOK AN APPOINTMENT ?</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"AboutUs.html\" data-toolbar=\"-mbrBtnMove\">KNOW ABOUT US!</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "B": {
+              "color": "#efefef",
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#efefef"
+            },
+            "P": {
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "contacts1-37",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vssk-logo-128x72.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>A-519 ,shastri nagar ,<br>delhi-110052 ,<br>INDIA<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": ""
+        }
+      ]
+    },
+    "FAQ.html": {
+      "settings": {
+        "title": "FAQ",
+        "meta_descr": "Website Maker Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.2rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.300rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#171c2c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#232c44!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#28324e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-r",
+          "_params": {
+            "bgColor": "#28324e",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vssk-logo-227x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Vashishtha Sadhna Siddhi Kendra</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"AboutUs.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AboutUs.html#content1-26\">Description<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AboutUs.html#header3-2b\">Jurisdiction</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-1f\">What is astrology ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-1x\">Grouping of Signs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-1z\">What is Kaal Sarp Yoga ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-2c\">Vastu </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"ContactUS.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Mantras</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-3p\">1.All round Pleasure giving Mantra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-3u\">2.Mantra for acquiring education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-3x\">3.Mantra for acquiring wealth </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-40\">4.Mantra for attainment of education and success in examination </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-43\">5.Mantra for attainment of Pleasure </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-46\">6.Mantra for getting a good husband</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-49\">7.Mantra for getting a good wife </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4c\">8.Mantra for getting all round success</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4f\">9.Mantra for attaining peace</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4i\">10.Mantra for having a peaceful life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4l\">11.Mantra for increasing profits in business</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bookappointment.html\" aria-expanded=\"false\">Private Appointments</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUS.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#f28281"
+            }
+          },
+          "_anchor": "footer1-s",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 VSSKendra."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#c1c1c1"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "FREQUENTLY ASKED QUESTIONS",
+          "text": "understand the depth of astrology",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1f",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "What is astrology ?",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "God has produced a galaxy of eminent Astronomers and Astrologers around the world. Our ancient history reveals that our country stood first in the study of Astronomy and Astrology.<div><br></div><div>Western or Modern Scholars and its Indian counterpart tend to underestimate the authenticity and Indian achievments not only in the field of Philosophy and Psychology but also in the so-called positive sciences of Jyotisha Sastra which forms an integral part as one.</div><div><br></div><div>It is gratifying to note that in recent times, some of our scholars have begun to extricate in regard to the culture and scientific heritage of the Hindus.</div><div><br></div><div>Scientists have disapproved Astrology as utterly false one. Many people have wrong notions about the scope and effectiveness of the Astrology. They believe it to be an exercise in futility, when everything is preordained, they say, then why waste of time and energy in knowing something which has got to happen and nothing can alter its course. True, but do not we make efforts to survive even if al are destined to die. Here, it would be better if we understand clearly what is meant by Luck, Effort and Destiny. Destiny is a certain, it cannot be changed or altered by human effort, whereas luck is that uncanny Phenomenon which ekes out the difficiency of efforts to make us get over destiny.</div><div><br></div><div>If efforts represent E, if luck represents - L and if destiny represents D, then E + L = D.</div><div><br></div><div><b>(i)</b> That is, one's destiny is preordained but to achieve it, one has to make efforts freely supported by better luck, you would get it with much less effort. Suppose one has to become an Engineer. That is his destiny. The effort part of the equation would make you to learn science subjects and the better phase of the life would see to it that one passes successfully with better marks to get admission in an Engineering College and qualify as an Engineer. In case one does not get support of his luck, one would have to do great efforts to get one's due, which means one cannot stop his efforts.</div><div><br></div><div><b>(ii) </b>Astrology only tells about the good or bad phase of life about the luck-part of the equation to enable to do efforts in accordance with the phase of life one is passing through.</div><div><br></div><div><b>(a) </b>Astronomy - Brihat Jatak (Ganitha Sastras)</div><div><br></div><div><b>(b)</b> Astrology - Phalita Rasayanam, Bhava Phalas, Phala Deepika.</div><div><br></div><div><b>(c)</b> Natural science - 3 parts. Present, Past &amp; Future.</div><div><br></div><div><b>(ii)</b> Bhrigu Samhita: (Father of Hindu Astrology) gave precise predictions for every-second of human life. He worked very laboriously for many years to determine the planetary positions, judgement of longivity and their consequent effects on human beings for full duration of life believed by Astrological calculations to be of 120 years of life span. Since Astrology was developed as a science to study the effect of heavenly bodies on the human life, the planets have also been symbolised in confirmity with general human emotions as marvels of the World Astrology.</div><div><br></div><div><b>(iii)</b> Parasara Samita : Maharashi Jaimini Sutras a pre-parasara authority.</div><div><br></div><div><b>1.</b> The following suggestions (qualifications) are laid down to become a successful Astrologer.</div><div><br></div><div><b>2. </b>The Astrologer should have no hatred for any one.</div><div><br></div><div><b>3.</b> He must have contentment and be joyful.</div><div><br></div><div><b>4. </b>He must be an expert in Astrology.</div><div><br></div><div><b>5. </b>He should be capable of identifying favourable and unfavourable forces hidden from to time.</div><div><br></div><div><b>6. </b>He should be gifted with clear power of speech in Astrology.</div><div><br></div><div><b>7.</b> He should be capable of skilful interpretations.</div><div><br></div><div><b>8. </b>He must be peaceful and patient with sweet voice.</div><div><br></div><div><b>9. </b>Discerning the past, present and the future.</div><div><br></div><div><b>10.</b> He must be one who has conquered his passions and sensual pleasure.</div><div><br></div><div><b>11. </b>Observing his daily religious practice.</div><div><br></div><div><b>12. </b>Be always moderate, never indulges in excess.</div><div><br></div><div><b>13.</b> Serves people and removes the sufferings of humanity.</div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1x",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "<br><br>Grouping of Signs",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<div><br></div><div><b><i>The 12 signs are grouped as under :-</i></b></div><div><br></div><div><b>1. Masculine or Odd Signs :</b> Aries, Gemini, Leo, Libra, Sagittarius, Aquarius,</div><div><br></div><div><b>2. Feminine or Even Signs : </b>Taurus, Cancer, Virgo, Scorpio, Capricorn, Pisces.</div><div><br></div><div><b>3. Movable Signs :</b> Aries, Cancer, Libra, Capricorn</div><div><br></div><div><b>4. Fixed Signs : </b>Taurus, Leo, Scorpio, Aquarius</div><div><br></div><div><b>5. Dual or common Signs : </b>Gemini, Virgo, Sagittarius, Pisces</div><div><br></div><div><b>6. Fiery Signs : </b>Aries, Leo, Sagittarius</div><div><b><br></b></div><div><b>7. Earthy Signs : </b>Taurus, Virgo, Capricorn</div><div><b><br></b></div><div><b>8. Airy Signs : </b>Gemini, Libra, Aquarius</div><div><br></div><div><b>9. Watery Signs :</b> Cancer, Scorpio, Pisces</div><div><br></div><div><b>10. Signs of Long Ascension : </b>Cancer,Leo,Virgo,Libra, Sagittarius</div><div><br></div><div><b>11. Signs of Short Ascension :</b> Aries, Taurus, Gemini, Capricorn, Aquarius, Pisces</div><div><br></div><div><b>12. Sirshodaya Signs : </b>Leo, Virgo, Libra, Scorpio, Aquarius (Rising by head)</div><div><br></div><div><b>13. Prishtodaya Signs : </b>Aries,Taurus,Cancer, Sagittarius, (Rising from hind parts) Capricorn</div><div><br></div><div><b>14. Ubhayodaya Signs : </b>Gemini, Pisces (Rising both ways)</div><div><br></div><div><b>15. Quadruped Signs : </b>Aries, Taurus, Leo, 2nd half of&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">(Four legged chatuspad) Sagittarius, 1st half of Capricorn</span></div><div><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>16. Human Signs :</b> Gemini, Virgo, Libra, 1st half of Sagittarius, Aquarius</span><br></div><div><br></div><div><b>17. Reptile Signs : </b>Cancer, Scorpio, Pisces, 2nd half of (Keeta) Capricorn</div><div><br></div><div><b>Northern Signs :</b> Aries, Taurus, Gemini, Cancer, Leo, Virgo</div><div><br></div><div><b>18. Southern Signs : </b>Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces</div><div><br></div><div><b>19. Equinoctial Signs : </b>Aries, Libra</div><div><br></div><div><b>20. Fruitful Signs :</b> Taurus, Cancer, Scorpio, Sagittarius, Pisces</div><div><br></div><div><b>21. Barren Signs : </b>Aries, Gemini, Leo, Virgo</div><div><br></div><div><b>22. Moderate Signs :</b> Libra, Capricorn, Aquarius</div><div><br></div><div><b>23. Brahmin Varna Signs : </b>Cancer, Scorpio, Pisces</div><div><br></div><div><b>24. Kshtriya Varna Signs :</b> Aries, Leo, Sagittarius</div><div><br></div><div><b>25. Vaishya Varna Signs : </b>Taurus, Virgo, Capricorn</div><div><br></div><div><b>26. Shoodra Varna Signs : </b>Gemini, Libra, Aquarius</div><div><br></div><div>The whole zodiac consisting of twelve signs represent Kalapurusha.</div><div><br></div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "<br><br><br>What is Kaal Sarp Yoga ?",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-20",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "Rahu and Ketu are two modes of Moon and they are regarded as full-fledged planets in Astrology. They are considered as most dreaded planets. Rahu is the Dragon’s head and Ketu as Dragon’s tail. Both of them form a malefic yoga, known as Kal-Sarp Yoga. In Astrology, this Yoga is supposed to have direct impact on the following events :<div><br></div><div><b>1. </b>It causes deterioration of health and reduces longevity.</div><div><br></div><div><b>2. </b>It causes imprisonment or serious accident.</div><div><br></div><div><b>3.</b> It causes separation, divorce and marital discord.</div><div><br></div><div><b>4.</b> It causes poverty and destruction of wealth.</div><div><br></div><div><b>5. </b>It causes destruction of business and loss of job.</div><div><br></div><div><b>6.</b> It causes destruction of kingdoms and rulers.</div><div><br></div><div><b>7. </b>It causes downfall of most powerful persons in politics.</div><div><br></div><div><b>When Kaal Sarp Yog is formed :</b></div><div><b>1.</b> All the planets should be within the orbit of Rahu and Ketu.</div><div><br></div><div><b>2. </b>Rahu should be at the upper end and ketu at the lower end.</div><div><br></div><div><b>3.</b> There is no planet outside the arch.</div><div><br></div><div><b>4.</b> That there is no planet conjuncting with Rahu or Ketu.</div><div><br></div><div><b>5. </b>That all the seven planets should face Rahu,which is always retrograde.</div><div><br></div><div><b>What is Kaal Sarp Yog result :</b></div><div><b><i>Note : </i></b><i>The impact is more severe if Rahu has support of Sun and Saturn.</i></div><div><br></div><div><b>Duration of Kal-Sarpn Yoga :</b></div><div><br></div><div><b><i>Notes :</i></b></div><div><br></div><div>1. Rahu in first house and Ketu in 7th house: Downfall, loss of position and reputation, mishappening, marital discord, loss of wife and children.</div><div><br></div><div>2. Rahu in second house and Ketu in 8th house : Reduction in wealth and health causes poverty, worries defects in body and lot of travelling.</div><div><br></div><div>3. Rahu in 3rd house and Ketu in 9th house : Involved in criminal activities, unpopular, waste energy and wealth, selfish, accident prone and paralysis is possible.</div><div><br></div><div>4. Rahu in 4th house and Ketu in 10th house : Loss of property, disappoint-ment, loss of job and business, unhappiness, sarpdosha unhappy and unsettled life.</div><div><br></div><div>5. Rahu in 5th and Ketu in 11th house : Heavy losses in litigation, failure in love affair, loss of children and betrayal by friends.</div><div><br></div><div>6. Rahu in 6th house and Ketu in 12th house : imprisonment, secret enemies, bad health and serious sickness and set backs in married life.</div><div><br></div><div>7. Rahu in 1st house: upto 27 years of age.</div><div><br></div><div>8. Rahu in 2nd house: upto 33 years of age.</div><div><br></div><div>9. Rahu in 3rd house: upto 36 years of age.</div><div><br></div><div>10. Rahu in 4th house: upto 42 years of age.</div><div><br></div><div>11. Rahu in 5th house: upto 48 years of age.</div><div><br></div><div>12. Rahu in 6th house: upto 54 years of age.</div><div><br></div><div>13. It causes malefic impact on houses occupied by Rahu and Ketu.</div><div><br></div><div>14. It causes malefic impact on houses aspected by Rahu and ketu.</div><div><br></div><div>15. It spoils the benefic planets joining with Rahu and Ketu.</div><div><br></div><div>16. It causes severe hardship when related with Sun and Saturn or the lords of the houses occupied by Sun, Saturn,Rahu and Ketu.</div><div><br></div><div>17. Its impact will be clearly noticed during periods and interperiods of Rahu and Ketu.</div><div><br></div><div>18. Its impact is more severe when Rahu/Ketu are in 1,5 or 9th position from themselves or Sun, Mars and Saturn.</div><div><br></div><div>19. Sometimes it pushes a man to great heights.</div><div><br></div><div>20. Sometimes it gives benefic results, when Rahu/Ketu are aspected by benefic planets, specially Jupiter or Venus.</div><div><br></div><div>21. Ketu is always 180 degrees from the longitude of Rahu</div><div><br></div><div>22. In case Uranus, Neptune or Pluto are outside the arch of Rahu and Ketu, no Kal-Sarp Yoga is formed.</div><div><br></div><div>23. Ketu’s aspect is less malefic than Rahu</div><div><br></div><div>24. Raja Yogas in the chart are more effective than Kal-Sarp Yoga</div><div><br></div><div>25. This Yoga causes great harm to th4e family, society and nation through the person who has Kal-Sarp Yoga</div><div><br></div><div>26. This Yoga plays important role in Mundane Astrology</div><div><br></div><div>27. Rahu joining ninth Mars in any chart create criminals or suicide or serious accident or murder</div><div><br></div><div>28. Rahu and Saturn joining in any house destroy the 7th house, the house opposite them</div><div><br></div><div>29. Rahu in transit creating relations with Jupiter or Venus gives benefic results</div><div><br></div><div>30. Ketu moving over any planet is evil for the significations of the concerned house</div><div><br></div><div>31. Rahu and Ketu generally behaves like lord of the sign occupied by them or the planet conjuncting with them.</div><div><br></div><div>32. If Ascendant is outside the arch of Kal-Sarp Yoga, the malefic impact is reduced.</div><div><br></div><div>33. The dispositors of Rahu and Ketu also play important role in determining the benefic or malefic impact.</div><div><br></div><div>34. Rahu in 3rd or 6th house in Aries, Taurus or Cancer sign does not give malefic results. It is benefic and gives benefic results.</div><div><br></div><div>35. Rahu in 10th house or aspecting 10th house and its lord along with Sun and Saturn destroy the native’s career. In case of 7th house separation and divorce id possible</div><div><br></div><div>36. Rahu and Mars in 3rd house causes accident and damages to life.</div><div><br></div><div>37. Rahu + Mars + Sat in ascendant: Dangerous personality.</div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2c",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Vastu&nbsp;",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Vastu is an ancient Vedic science of layout planning of buildings which deals with various aspects of designing and building living environments that are in harmony with the physical and metaphysical forces. We often face problems at our home or office, due to Vastu-related defects. However, through the help of Vastu Shastra or the science of Vastu, it is possible to have a healthy surrounding.<div><br></div><div><b>Do's and Don'ts of Vastu&nbsp;</b></div><div><b><br></b></div><div><i>General Vastu Tips</i></div><div><i><br></i></div><div>• Main entrance should be in exalted position- North-North East, East- North East, South- South East and West- North West.</div><div>• Main Entrance should be in East, North or North-East direction</div><div>• Wash Basins should be placed in the North, East or north-East side of the hall.</div><div>• Stairways should be built with an odd number of stairs.</div><div>• Do not build stairways on the northeast side, as it will cause loss of wealth.</div><div>• Stair cases should always be in South- West part of the building.&nbsp;</div><div>• For electric generator and transformer installation, South- East direction is absolutely fine.&nbsp;</div><div>• Well should not be inside the building.</div><div>• Septic Tank should be located in North or East side of the plot but should be in East of North(center).</div><div>• Septic Tank should not touch the compound wall in North or East</div><div>• Toilets may be placed in North- West or South- East. North- East</div><div>These are the general vastu tips for a happy and prosperous life, however if you want personalized</div><div><br></div><div><i>Valuable Vastu tips for daily life</i></div><div><i><br></i></div><div>• Adults should sleep with their head towards the south. Sleeping in that direction leads to longevity.</div><div>• Children should sleep with their head towards the East. It will bring them enlightenment</div><div>• Students should be facing east while studying, for Academic Excellence.</div><div>• While traveling one should sleep with their head towards West.</div><div>• Vastu and Ganapati pooja should be performed in the North-East corner of the plot before construction.</div><div>• Before beginning anything new pooja should be performed.</div><div>• God should always be remembered and worshiped</div><div>• Copper vessels should be used to contain water and for lightening diyas brass items should be used.</div><div>• In one's own house the family members should not face West. This causes sorrow and unhappiness.</div><div>• Never sleep with your head towards North.</div><div>• Iron, stainless steel and aluminum items should not be used for pooja.</div><div>• Never hang pictures of animal fighting, tree without fruits and flowers, dead animals,house on fire and pictures of any war scene.</div><div>• If north of any house is blocked it blocks prosperity.</div><div>• Hang a mirror to reflect your cash box or locker. It symbolically doubles your wealth and opportunities.</div><div><br></div><div><i>Vastu Tips for selection of Plot</i></div><div><i><br></i></div><div>• Square Shape-Ensures all around prosperity and good results</div><div>• Rectangular Shape- Ensures all around prosperity and good results</div><div>• Elevated South- Ensures good health and prosperity</div><div>• Elevated West- Ensures name, fame and good children</div><div>• Roads in North and East is very good.</div><div>• Wells should be circular in shape below the ground but square in shape above the ground.</div><div>• Triangular, Circular or five cornered site and best to be avoided</div><div>• Elevated East- Could lead to progeny loss and depression</div><div>• Elevated North- Does not ensure good health.</div><div>• Plots should not be next to any religious place, public place, marriage halls, hospitals, burial or cremation ground.</div><div>• Any plot between two big plots should be avoided.</div><div><br></div><div><i>Vastu Tips for Residential Property</i></div><div><i><br></i></div><div>• Open Courtyard in the center is advisable.</div><div>• Entrance and Pooja room should be in North East zone</div><div>• Entrance from North East is Favorable.</div><div>• Bathroom should be in East or in between East and North East</div><div>• Kitchen should be in South-East Corner.</div><div>• Cooking should always be done facing East.</div><div>• Bedrooms should be in Southern side</div><div>• Bedroom of the bread earner of the hose should be in North-West side.</div><div>• Bedroom in South-West corner should be used by the head of the house(parents)</div><div>• Bedroom in Southern and Western side should be used by sons and North-West corner by daughters.</div><div>• Number of doors and windows should be even.</div><div>• Pooja room's door should have double shutters and four frame.</div><div>• Deity should face West east and North</div><div>• All the doors should open inside so that the energy may remain inside.&nbsp;</div><div>• Kitchen should not be in front of or next to the toilet.</div><div>• Toilet door should not face the kitchen or dining hall</div><div>• Cooking facing North or South is prohibited.</div><div>• Bedrooms in Eastern and Northern sides are not god</div><div>• Bedroom in South-East corner is dangerous.</div><div>• Bed, dining table or sofas should not be placed below any beam or attic.</div><div>• Photos of ancestors should be placed in the South- West corner of the house.</div><div>• Rest of the doors should not be bigger than the main entrance.</div><div>• Three doors falling in one line is not good.</div><div>• Above the pooja room there should neither be a toilet nor a kitchen.</div><div>• Deity should never face South.</div><div>• Worshipers can face any direction except South.</div><div><br></div><div><i>Vastu Tips Office or Small Factory</i></div><div><i><br></i></div><div>• The sloping of floors should be towards East, North and North-East,&nbsp;</div><div>• Weigh bridge or weighing machines may be placed in North- West or Central- East.&nbsp;</div><div>• Parking of heavy vehicles should be in South- West zone.&nbsp;</div><div>• Light commercial vehicles can be parked in North- West, North or East side of buildings.&nbsp;</div><div>• Lawns with big avenue trees can be planted in South and West sides.&nbsp;</div><div>• Small lawns can be developed in North- East, North and East also.&nbsp;</div><div>• Administrative and other office blocks can be constructed in North, East, South or South- West</div><div>• Staff quarters may be built in the East zone without touching East wall, in North, West or South- East.&nbsp;</div><div>• Multi storied flats may be constructed in South zone without touching main factory building.&nbsp;</div><div>• Staff canteen may be placed in South- East.&nbsp;</div><div>• Toilets in the administrative building should be made in South-East or North-West area.</div><div>• Maintenance workshop may be in South or South- West&nbsp;</div><div>• A temple should be placed in North- East corner .</div><div>• North- East should always be free from any parking of vehicles.</div><div>• North- East direction should be avoided for a guard room or security cabin.</div><div>• South- West corners should be strictly avoided for toilets.&nbsp;</div><div>• Reception should be in North-East direction</div><div>• The office of Senior management should be in Southern or South-West zone of the office.</div><div>• Sitting arrangement of a cashier should be North.</div><div>• For training purpose West is the best direction.</div><div>• Marketing department should be in North- West direction</div><div>Vastu Tips for Hotels &amp; Commercial Property</div><div><br></div><div>• Site rectangular or square</div><div>• In hotels underground reservoir, sink, pools, swimming pools etc. should be located in North-East or Eastern zone.</div><div>• Roads on all side beneficial</div><div>• Rooms for customers in South-West</div><div>• Dining hall should be in the west zone</div><div>• Underground Water tanks and swimming pools in the North- East</div><div>• Over head water tanks in South West.</div><div>• For placing grinders, ovens etc, southeast corner would be appropriate.&nbsp;</div><div>• Cash Counter should be in South- West direction with elevated platform</div><div>• Balconies can be in the East or North side.</div><div><br></div><div><b>Vastu Shastra</b></div><div>Vastu shastra is a science that belongs to the architecture of any living place or site. It scatters its spell using five natural elements like Vayu, Jala, Prithvi, Akash and Agni. Vastu derives the positive energy from these vital natural elements and do corrections that may be causing a great damage to the occupants or the dwellers in the particular house. It brings these energizing elements together, utilizes them for performing resurrection and ultimately revives the positive vibes for storing prosperity and joy there forever.</div><div><br></div><div>The awakening of continuous problems, frequent health loss, stress, piling debt and regular quarrels in the house compel us to take the aid of vastu because it is not a superstitious belief but a fact based science. Vastu Shastra has certain defined rules according to which the negativity prevailing in the house can be transformed into positivity by implementing vastu norms correctly and carefully in the house.</div><div><br></div><div><b>Vastu Directions</b></div><div>Vastu directions are meant to draft and eventually construct the house as per the directional tenets instructed in vastu shastra. Each direction has been assigned a specific scientific reason to establish a particular room that would abide by the significance of each cosmic force and natural elements dwelling in that corner of the site. They are as given below:</div><div><br></div><div>• North (Uttar) : This direction is ruled by Kubera, the deity of treasury. This direction is perfect for locating toilet, boring or underground tank, temple, master bed-room, kid's room, guest room and living room.</div><div>• North-East (Eshan) : Lord Shiva reigns in this direction which is considered fit for establishing \"Prayer-room\", boring or underground tank, kid's room and living room.</div><div>• North-West (Vaayavya) : This is the place ruled by god of wind, Vayu. Kitchen, Toilet, guest-room and living room can be established there.</div><div>• East (Purv) : This direction has the dynasty of Lord Indra and Lord Aditya. Bath-room, kitchen, boring underground tank, temple, master bed room, kid's room, guest room and living room should be constructed here.</div><div>• South (Dakshin) : The lord of destruction abides here. This place should be utilized as kitchen, stairs, toilet, over head tanks and master bed-room.</div><div>• South-East (Agneya) : The deity, Agni, dwells here that acts as an energy generator. This corner is suitable for locating kitchen, guest room, stairs, toilet, temple, master bed-room and living room.</div><div>• South-West (Nairutya) : This direction is ruled by our 'ancestors. Stairs, overhead tank and master bed room can be constructed in this direction.</div><div>• West (Paschim) : Lord of water, Varuna, is the occupant deity of this direction and dining room, stairs, toilet over head tanks, master bed room and living room should be allocated there.</div><div>• Center (Madhya) : The central part of the plot is left vacant as the creator of this universe Lord Brahma lives here and creates energizing vibes. It can be suitable place for living-room.</div><div><br></div><div><b>Vastu for Home</b></div><div>Home is the shelter or you can say a nest where a creature spends the constant life. Although he moves from place to place throughout the day outside his home yet ultimately he feels homesick as he has developed a crucial bond or attachment with his dwelling place. Vastu shastra has some beneficial advice to meet the best destiny and happiness in your life and it will not ask for any change in return of its fruitful service to you.</div><div><br></div><div>• The plot of the house must be rectangular or square in shape.</div><div>• Temple should be situated in the northeast corner of the house.</div><div>• Kitchen must be in the southeast side of it.</div><div>• Southwest direction should be utilized as Master bed room.</div><div>• Grains and cereals can be put in the northwest direction of it.</div><div>• Stairs can be constructed in the southeast, southwest, west or south direction in the house.</div><div>• Kid's room is suitable to locate in the north, east and northeast direction.</div><div>• Living room can be established at the northeast, west or southeast direction of the house</div><div>• Center of the house must be left vacant for religious rituals.</div><div>• Toilets should be situated in the northwest, southeast, west, south or north direction of the house.</div><div><br></div><div><b>Vastu for Bedroom</b></div><div>\"Gloom would bloom if vastu is not given any room in your home\"</div><div>Bed-room is that tranquil place where serenity must be stored to evacuate fatigue and discomfort from the veins of your tired body. This place should have such rejuvenating energy vibes that would provide refreshing rejoice to your mind, body and soul. Vastu norms prevent the occupant from being fallen into gloominess due to mismanagement of living accessories such as:</div><div><br></div><div>• Location of bed-room should be in south direction.</div><div>• Color selection for walls and ceiling should be pastel blue or green, off white, light rose and gray.</div><div>• Location of doors should be in the northwest, north, east or west corner of the room.</div><div>• Almirah should be adorned at southwest corner of the room.</div><div>• Dressing table and mirror should be position either in the east or the north direction in bed-room.</div><div>• Installation of television should be in the east direction of the room.</div><div>• The bed must be kept in south, west or southwest direction.</div><div>• The particular location of toilet and bath-room is north, south, west, southwest or northwest direction.&nbsp;</div><div><br></div><div><b>Vastu for Career</b></div><div>\"Be a warrior, avoid any barrier and hence, establish your career\"</div><div>Vastu has some relevant and reliable prescription for accelerating your smooth career. The vastu norms for your career are as follows:</div><div><br></div><div>• An intellectual or professional must have his chair facing towards north direction along the wall of the room but should remain untouched. Don't expose your back to the door.</div><div>• The entrance of his specific room must be away from the main door.</div><div>• The office should not be beside the bed room of yours. Prohibit the idea of locating your office at your residence for fruitful career.</div><div>• The idea of adorning sharp edged table at the conference hall should be a big 'no'.</div><div>• Preference should be given to the use of high back chairs in the hall or office.</div><div>• Square or rectangular shaped bench or desk should be manufactured or bought instead of irregular shape furniture. Wooden furniture would do a wonder for subscribing unlimited career hike.</div><div>• Put a crystal on the table or bench for attracting money flow.</div><div>• Proper lightning must be installed in the office or at work place else the murky environment would kick your career down.</div><div>• No distractive beam into the office should fall directly on the chair or seat.&nbsp;</div><div><br></div><div><b>Vastu for Office</b></div><div>Since the establishment of stillness in human life, a man has been indulged in the hectic schedule of busy life. No doubt, everyone wants money. That's why we work day and night. But suffering from a huge loss or financial crises despite your all fair efforts is the matter of severe concern. Vastu would suggest you some reliable solutions for bringing boom in your business or professional life. They are as follows:</div><div><br></div><div>• The office must be located in such direction that east direction would be visible.</div><div>• The door of it should have its position in the east direction while window would suit on the north side.</div><div>• The head of the office should be given his room in south or west facing towards north or east.</div><div>• The staff should have its room in the north or east direction.</div><div>• The most vital account department should be established at the southeast corner of the office premises.</div><div>• The northwest direction is perfect for marketing department.</div><div>• Canteen should be allocated at the southeast or northwest corner.</div><div>• Stairs can be constructed in the south, southwest or west direction.</div><div>• Southwest or northwest direction is good for locating toilet there.</div><div>• Cluttering and direct beam must be avoided and the center of the office should be left empty.</div><div><br></div><div><b>Vastu for Kitchen</b></div><div>The basic necessity of life is food that regulates all metabolic activities inside the body. Kitchen is that important place from where the initial step of health takes place. But unassembled or unsorted kitchen can cast an ill omen on our health. So we must be aware of the exact setting of kitchen and its articles in order to avoid any ill will.</div><div>• The kitchen should be located in the southeast or northwest corner of the house.</div><div>• Its door should be opened at 90 degree on the north, east or west side of kitchen.</div><div>• The bigger windows should be fitted on the north wall and the suitable space for smaller windows is south wall.</div><div>• An empty gas cylinder should be placed in the southwest corner while the full one should be kept in the southeast corner of the kitchen.</div><div>• The southeast direction is fit for keeping your gas stove there.</div><div>• Electrical appliances such as oven or refrigerator should be adorned at the south, southeast corner of it.</div><div>• The place to store cereals and grains should be positioned in the south or west direction.</div><div>• Sink must be fitted at the northeast side of the kitchen</div>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "B": {
+              "color": "#efefef",
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#efefef"
+            },
+            "P": {
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "contacts1-37",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vssk-logo-128x72.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>A-519 ,shastri nagar ,<br>delhi-110052 ,<br>INDIA<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": ""
+        }
+      ]
+    },
+    "ContactUS.html": {
+      "settings": {
+        "title": "Contact US",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1190.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "CONTACT US!",
+          "text": "<p>please fill the required information below including the name of the package you chose and voila! its DONE!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.2rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.300rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#171c2c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#232c44!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#28324e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-23",
+          "_params": {
+            "bgColor": "#28324e",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vssk-logo-227x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Vashishtha Sadhna Siddhi Kendra</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"AboutUs.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AboutUs.html#content1-26\">Description<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AboutUs.html#header3-2b\">Jurisdiction</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-1f\">What is astrology ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-1x\">Grouping of Signs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-1z\">What is Kaal Sarp Yoga ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-2c\">Vastu </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"ContactUS.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Mantras</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-3p\">1.All round Pleasure giving Mantra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-3u\">2.Mantra for acquiring education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-3x\">3.Mantra for acquiring wealth </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-40\">4.Mantra for attainment of education and success in examination </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-43\">5.Mantra for attainment of Pleasure </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-46\">6.Mantra for getting a good husband</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-49\">7.Mantra for getting a good wife </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4c\">8.Mantra for getting all round success</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4f\">9.Mantra for attaining peace</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4i\">10.Mantra for having a peaceful life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4l\">11.Mantra for increasing profits in business</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bookappointment.html\" aria-expanded=\"false\">Private Appointments</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUS.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#f28281"
+            }
+          },
+          "_anchor": "footer1-24",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 VSSKendra."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#cccccc"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".btn": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "form1-35",
+          "_params": {
+            "labelsColor": "#cccccc",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#28324e",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Book Your Appointment",
+          "subtitle": "",
+          "form": {
+            "action": "sharmahemant296@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Book It!</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#efefef"
+            },
+            "B": {
+              "font-size": "23px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "SMALL": {
+              "font-size": "24px",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "text-align": "right",
+              "color": "#cccccc"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#28324e",
+            "showMeta": true
+          },
+          "title": "Find Us At,",
+          "meta": "A-519 ,shastri nagar ,<br>delhi-110052 ,<br>INDIA<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-31",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#28324e",
+            "googleMap": {
+              "address": " Block A, Shastri Nagar, Delhi, 110052, India",
+              "placeId": "ChIJU5Oa1noCDTkRpMTk3f3AnxE",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "B": {
+              "color": "#efefef",
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#efefef"
+            },
+            "P": {
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "contacts1-37",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vssk-logo-128x72.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>A-519 ,shastri nagar ,<br>delhi-110052 ,<br>INDIA<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": ""
+        }
+      ]
+    },
+    "bookappointment.html": {
+      "settings": {
+        "title": "book an appointment",
+        "meta_descr": "Site Maker Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#efefef"
+            },
+            ".mbr-price-figure": {
+              "font-size": "60px"
+            },
+            ".mbr-plan-title DIV": {
+              "font-size": "32px"
+            },
+            ".mbr-plan-title": {
+              "font-size": "32px",
+              "color": "#efefef"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#efefef"
+            },
+            ".mbr-plan-price-desc B": {
+              "color": "#232323"
+            },
+            ".mbr-plan-title SPAN": {
+              "color": "#efefef"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-39",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": ""
+          },
+          "title": "PRICING TABLE",
+          "subtitle": "Book Now&nbsp;Pay Later",
+          "label1": "HOT!",
+          "title1": "<span style=\"color: inherit; line-height: 1.28;\"><br></span><br><span style=\"color: inherit; line-height: 1.28;\">Ask a Question</span><br>",
+          "subtitle1": "",
+          "currency1": "₹",
+          "price1": "500",
+          "period1": "",
+          "description1": "<b>&nbsp;</b>Ask any predefined question through application form and submit it to horoscope oracle, we will analyze your birth chart or Janam Kundali manually.",
+          "list1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"ContactUS.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK NOW<br></a>",
+          "label2": "HOT!",
+          "title2": "<br>Each Report i.e.(Carrier/Marrige)",
+          "subtitle2": "",
+          "currency2": "₹",
+          "price2": "1101",
+          "period2": "",
+          "description2": "<b>&nbsp;Detailed Marriage analysis covering all aspects of the match.</b><br>",
+          "list2": "<ul class=\"list-group list-group-flush\"></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"ContactUS.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "label3": "HOT!",
+          "title3": "<br><span style=\"color: inherit; line-height: 1.28;\">Detail Analysis</span><span style=\"color: inherit; line-height: 1.28;\"><br></span><br>",
+          "subtitle3": "",
+          "currency3": "₹",
+          "price3": "2201",
+          "period3": "",
+          "description3": " your horoscope is analyzed in great detail by our empaneled expert astrologers and the predictions generated go through rigorous levels of quality checks before the final report is sent to you.",
+          "list3": "<ul class=\"list-group list-group-flush\"></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"ContactUS.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "label4": "HOT!",
+          "title4": "<br>Vaastu Visit",
+          "subtitle4": "",
+          "currency4": "₹",
+          "price4": "5501",
+          "period4": "",
+          "description4": "The nine planets behave differently in different houses and different signs. ",
+          "list4": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">&nbsp;</span></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"ContactUS.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-plan-title DIV": {
+              "font-size": "32px"
+            },
+            ".mbr-plan-title": {
+              "font-size": "32px"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#efefef"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-3d",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "bg-primary",
+            "showButtons": true,
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": "hidden"
+          },
+          "title": "PRICING TABLE",
+          "subtitle": "<i>Book Now Pay Later</i>",
+          "label1": "HOT!",
+          "title1": "<br><div>Horoscope</div>",
+          "subtitle1": "",
+          "currency1": "₹",
+          "price1": "501",
+          "period1": "",
+          "description1": "<b>Know the planetary positions in your Horoscope and understand what they hold for you.</b>",
+          "list1": "<ul class=\"list-group list-group-flush\"></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"ContactUS.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "label2": "HOT!",
+          "title2": "<br><div>Remedial Consultation</div>",
+          "subtitle2": "",
+          "currency2": "₹",
+          "price2": "1101",
+          "period2": "",
+          "description2": "Remedies are not only very effective and quick but also very easy and affordable.",
+          "list2": "<ul class=\"list-group list-group-flush\"></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"ContactUS.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "label3": "HOT!",
+          "title3": "<br>&nbsp;Detail Match Making",
+          "subtitle3": "",
+          "currency3": "₹",
+          "price3": "1101",
+          "period3": "",
+          "description3": "More details",
+          "list3": "<ul class=\"list-group list-group-flush\"></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"ContactUS.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "label4": "HOT!",
+          "title4": "ULTIMATE",
+          "subtitle4": "Description",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "/mo.",
+          "description4": "More details",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-3e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1068.jpg",
+            "bgColor": "#475577",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "SUBSCRIBE FORM",
+          "subtitle": "Subscribe to our Newsletter",
+          "form": {
+            "action": "sharmahemant296@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.2rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.300rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#171c2c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#232c44!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#28324e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2e",
+          "_params": {
+            "bgColor": "#28324e",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vssk-logo-227x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Vashishtha Sadhna Siddhi Kendra</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"AboutUs.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AboutUs.html#content1-26\">Description<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AboutUs.html#header3-2b\">Jurisdiction</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-1f\">What is astrology ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-1x\">Grouping of Signs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-1z\">What is Kaal Sarp Yoga ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-2c\">Vastu </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"ContactUS.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Mantras</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-3p\">1.All round Pleasure giving Mantra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-3u\">2.Mantra for acquiring education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-3x\">3.Mantra for acquiring wealth </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-40\">4.Mantra for attainment of education and success in examination </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-43\">5.Mantra for attainment of Pleasure </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-46\">6.Mantra for getting a good husband</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-49\">7.Mantra for getting a good wife </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4c\">8.Mantra for getting all round success</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4f\">9.Mantra for attaining peace</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4i\">10.Mantra for having a peaceful life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4l\">11.Mantra for increasing profits in business</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bookappointment.html\" aria-expanded=\"false\">Private Appointments</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUS.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#f28281"
+            }
+          },
+          "_anchor": "footer1-2f",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 VSSKendra."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "B": {
+              "color": "#efefef",
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#efefef"
+            },
+            "P": {
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "contacts1-37",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vssk-logo-128x72.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>A-519 ,shastri nagar ,<br>delhi-110052 ,<br>INDIA<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": ""
+        }
+      ]
+    },
+    "mantras.html": {
+      "settings": {
+        "title": "mantras",
+        "meta_descr": "Web Page Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3q",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1324.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "MANTRAS",
+          "text": "<p>.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "All round Pleasure giving Mantra",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H2": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
+          "_anchor": "content1-3s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h2>\" Om Bhoorbhuva Swah Tatsaviturvarenyam Bhargo &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"color: inherit; font-size: 2.5rem; line-height: 1.1;\">Devasye Dheemahi Dhiyo Yo Nah Prachodayat \"</span></h2>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-3t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>This is known as Gayatri Mantra. It helps in early fulfillment of all desires of life. It resides in the category of Great Mantras in the Hindu Mythology. The use of a beaded garland of 108 beads, chanting three times a day (Morning, Noon and Evening) is favorable.</blockquote>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-family": "'Ubuntu', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.2rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.300rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#171c2c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#232c44!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#28324e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-3m",
+          "_params": {
+            "bgColor": "#28324e",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Ubuntu",
+              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "css": "'Ubuntu', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vssk-logo-227x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Vashishtha Sadhna Siddhi Kendra</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"AboutUs.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AboutUs.html#content1-26\">Description<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AboutUs.html#header3-2b\">Jurisdiction</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-1f\">What is astrology ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-1x\">Grouping of Signs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-1z\">What is Kaal Sarp Yoga ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQ.html#header3-2c\">Vastu </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"ContactUS.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Mantras</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-3p\">1.All round Pleasure giving Mantra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-3u\">2.Mantra for acquiring education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-3x\">3.Mantra for acquiring wealth </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-40\">4.Mantra for attainment of education and success in examination </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-43\">5.Mantra for attainment of Pleasure </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-46\">6.Mantra for getting a good husband</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-49\">7.Mantra for getting a good wife </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4c\">8.Mantra for getting all round success</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4f\">9.Mantra for attaining peace</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4i\">10.Mantra for having a peaceful life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mantras.html#header3-4l\">11.Mantra for increasing profits in business</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bookappointment.html\" aria-expanded=\"false\">Private Appointments</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ContactUS.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#f28281"
+            }
+          },
+          "_anchor": "footer1-3n",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright © 2017 VSSKendra."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Mantra for acquiring education&nbsp;",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H2": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
+          "_anchor": "content1-3v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\" Om Aim Namah \"</h2>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-3w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>This mantra is attributed to Goddess Saraswati. She is known as the Goddess of Education and Knowledge among the Hindus. The mantra helps very much in acquiring effective education. The use of a red beaded sandal garland while chanting is favourable.</blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Mantra for acquiring wealth&nbsp;",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H2": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
+          "_anchor": "content1-3y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h2>\" Om Ya Devi SarvaBhuteshu Lakshmirupen sansthita, Namastasyei Namastasyei Namastasyei Namo Namah \"</h2>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-3z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>The mantra is attributed to Goddess Lakshmi. She is well known as the Goddess of wealth among the Hindus. The continuous chant of this mantra for 108 times everyday can help to acquire fabulous wealth. The use of a beaded garland of Tulsi (Basil Plant) is favourable</blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-40",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Mantra for attainment of education and success in examination&nbsp;",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H2": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
+          "_anchor": "content1-41",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \" Om Gana Ganapataye Namah \"&nbsp;</h2>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-42",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>This mantra is attribute to Lord Ganesha. It helps to acquire education and good success in exam. It is specially useful for students. The regular chant of this mantra will bring early results.</blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-43",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Mantra for attainment of Pleasure&nbsp;",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H2": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
+          "_anchor": "content1-44",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \" Om Namo Bhagwate Vasudevaya \"</h2>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-4b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>This mantra of Lord Narayan is very powerful and advantageous. It gives peace of mind. Moreover, in brings happiness.</blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-46",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Mantra for getting a good husband",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H2": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
+          "_anchor": "content1-47",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h2>\" Om He Gouri Shankarardhaangi Yatha Twam Shankar Priya Tatha Mam Kuru Kalyani Kantam Kantaam Sudurlabham \"</h2>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-4h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>This mantra is attributed to Goddess Durga. The regular and continuous chant of this mantra by the female section of the society helps them get the husband of their choice. The use of rudraksha mala (A beaded garland of the seeds of Eleocarpus Ganitrus Tree) while chanting is favourable</blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-49",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Mantra for getting a good wife&nbsp;",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H2": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
+          "_anchor": "content1-4a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h2>\" Om Patnim Manoram Dehi Manovritanusarineem, Tareneem Durgasansar Sagarasye Kulodbhavam. \" &nbsp;</h2>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-4k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>This mantra is attributed to Goddess Durga. The regular and continuous chant of this mantra by the male section of the society helps them get a wife of their expectation. The use of rudraksha mala (A beaded garland of the seeds of Eleocarpus Ganitrus Tree) while chanting is favourable.</blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Mantra for getting all round success",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H2": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
+          "_anchor": "content1-4d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\" Om Shreem Hreem Kleem Namah \"</h2>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-4n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>This mantra is called Seed Mantra. The Mantra helps to eliminate all odds and troubles. Its power is doubled when the chant is performed along with a red sandal beaded garland.</blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Mantra for attaining peace",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H2": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
+          "_anchor": "content1-4g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\" Om Ram Ramaya Namah \"</h2>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-4o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>This is a very powerful Mantra. This mantra is attributed to Lord Rama or Lord Narayana. The regular chant of this mantra leads to success in every field of life and worldly pleasure. Moreover, it brings along with it the blessing of the God.</blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Mantra for having a peaceful life",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H2": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
+          "_anchor": "content1-4j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \" Om Hanumate Namah \"&nbsp;</h2>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-4p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>This mantra is related to Lord Hanuman. The regular and continuous chant of this mantra for 1.25 lakh times helps to bring back lost pleasures and strength of mind. The use of rudraksha mala (A beaded garland of the seeds of Eleocarpus Ganitrus Tree) or a beaded Garland of red sandal is favourable and helps to attain early results.</blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Mantra for increasing profits in business",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H2": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
+          "_anchor": "content1-4m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h2>\" Om Kansonsmitam Hiranya Prakaram Aardraam Jwalantim Triptam Tarpyenteem, Padhesthitam Padhmavarnaam Tami Hope Vhayeshriyam \"&nbsp;</h2>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-4q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>This mantra is attributed to Goddess Lakshmi. The regular and continuous chant of this mantra helps to increase profits in business. The use of a beaded garland of Tulsi (Basil Plant) is recommended for better and early results</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "B": {
+              "color": "#efefef",
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#efefef"
+            },
+            "P": {
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "contacts1-37",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vssk-logo-128x72.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>A-519 ,shastri nagar ,<br>delhi-110052 ,<br>INDIA<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": ""
+        }
+      ]
+    }
+  }
+}
